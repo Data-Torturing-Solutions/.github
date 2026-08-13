@@ -16,7 +16,7 @@ body:
     id: surface
     attributes:
       label: Affected repo, site or droplet
-      placeholder: e.g. vertical-circuit / the circuit droplet / makersmap.co.uk
+      placeholder: the repo, site or server this affects
 
   - type: textarea
     id: acceptance
